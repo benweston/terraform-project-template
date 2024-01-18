@@ -10,6 +10,30 @@
 
 </div>
 
+## Usage - Quick-Start
+
+<div align="justify">
+
+If you know what you need and want to jump straight in, simply download & unzip the latest file to get started.   
+
+</div>
+
+<div align="left">
+
+| Release | Description |
+| :----- | :----- |
+| [v1.0.0](https://github.com/benweston/terraform-project-template/releases) | Release version 1.0.0 |
+
+</div>
+
+## Usage - In-Depth Guide
+
+<div align="justify">
+
+A comprehensive in-depth guide & documentation set may be found over on the [Wiki](https://github.com/benweston/terraform-project-template/wiki).   
+
+</div>
+
 ## Project Roadmap
 
 <div align="left">
