@@ -48,11 +48,10 @@ All current & upcoming work is captured within the following project:
 ## License
 
 <div align="left">
-    <p align="left">
-        <a href="https://github.com/benweston/terraform-project-template/blob/main/LICENSE">
-            <img src="https://github.com/benweston/terraform-project-template/blob/main/img/license-icon-mit.png" width="88" height="31" alt="MIT License Icon" />
-        </a>
-    </p>
+
+Terraform Project Template is provided under the [MIT License](https://github.com/benweston/terraform-project-template/blob/main/LICENSE).   
+Terraform is owned by HashiCorp and provided under the [Business Source License](https://www.hashicorp.com/bsl).   
+
 </div>
 
 ## Acknowledgements
