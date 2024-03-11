@@ -47,5 +47,5 @@ Terraform is owned by HashiCorp and provided under the [Business Source License]
 
 <div align="left">
     Banner taken from photo by <a href="https://unsplash.com/@adigold1?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adi Goldstein</a> on
-    <a href="https://unsplash.com/photos/teal-led-panel-EUsVwEOsblE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+    <a href="https://unsplash.com/photos/teal-led-panel-EUsVwEOsblE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.
 </div>
