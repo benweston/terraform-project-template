@@ -28,7 +28,7 @@ If you know what you need and want to jump straight in, simply download & unzip 
 
 ## Usage - In-Depth Guide
 
-<div align="justify">
+<div align="left">
 
 A comprehensive in-depth guide & documentation set may be found over on the [Wiki](https://github.com/benweston/terraform-project-template/wiki).   
 
