@@ -34,17 +34,6 @@ A comprehensive in-depth guide & documentation set may be found over on the [Wik
 
 </div>
 
-## Project Roadmap
-
-<div align="left">
-
-All current & upcoming work is captured within the following project:   
-| Project Name | Description |
-| :----- | :----- |
-| [Terraform Project Template](https://github.com/users/benweston/projects/12/views/1) | Provisions a fungible cloud development environment for testing &amp; prototyping. |
-
-</div>
-
 ## License
 
 <div align="left">
