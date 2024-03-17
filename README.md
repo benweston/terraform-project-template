@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/benweston/terraform-project-template/blob/main/img/banner-image.png" alt="Server Racks" width="900" height="70" />
+    <img src="https://github.com/benweston/terraform-project-template/blob/main/img/banner-image.png" alt="Server Racks" width="900" height="90" />
 </div>
 
 # Terraform Project Template
