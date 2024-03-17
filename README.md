@@ -38,7 +38,7 @@ A comprehensive in-depth guide & documentation set may be found over on the [Wik
 
 <div align="left">
 
-Terraform Project Template is provided under the [MIT License](https://github.com/benweston/terraform-project-template/blob/main/LICENSE).   
+The Terraform Project Template contents is provided under the [MIT License](https://github.com/benweston/terraform-project-template/blob/main/LICENSE).   
 Terraform is owned by HashiCorp and provided under the [Business Source License](https://www.hashicorp.com/bsl).   
 Banner image taken from photo by [Adi Goldstein](https://unsplash.com/@adigold1?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/teal-led-panel-EUsVwEOsblE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) under the [Unsplash License](https://unsplash.com/license).   
 
